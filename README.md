@@ -59,7 +59,7 @@ Replace `<YOUR-USERNAME>`, `<BRANCH>` and `<ROLL-NO>` with your own values.
 
 **2. Clone** your fork:
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/html-blog-assignment.git
+git clone https://github.com/<YOUR-USERNAME>/blog-assignment.git
 cd blog-assignment
 ```
 
