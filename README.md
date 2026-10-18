@@ -2,6 +2,8 @@
 
 Write **one blog post using only HTML** and submit it through a **Pull Request (PR)**.
 
+**Topic:** You can choose any topic you like! It can be about technology, science, travel, hobbies, personal experiences, or anything else you're interested in. Be creative and write the blog yourself.
+
 ## Repository Structure
 
 ```
