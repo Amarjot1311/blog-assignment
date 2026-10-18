@@ -5,7 +5,7 @@ Write **one blog post using only HTML** and submit it through a **Pull Request (
 ## Repository Structure
 
 ```
-html-blog-assignment/
+blog-assignment/
 ├── CSAI/
 │   └── lci20260tt/      <- your roll number folder
 ├── CS/
