@@ -58,7 +58,7 @@ Replace `<YOUR-USERNAME>`, `<BRANCH>` and `<ROLL-NO>` with your own values.
 **2. Clone** your fork:
 ```bash
 git clone https://github.com/<YOUR-USERNAME>/html-blog-assignment.git
-cd html-blog-assignment
+cd blog-assignment
 ```
 
 **3. Create your branch:**
